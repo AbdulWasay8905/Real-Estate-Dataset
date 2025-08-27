@@ -62,7 +62,7 @@ This project is maintained by:
 
 **Abdul Wasay**  
 [GitHub](https://github.com/abdulwasay8905)  
-[LinkedIn](linkedin.com/in/abdul-wasay-2a602329b)  
+[LinkedIn](www.linkedin.com/in/abdul-wasay-2a602329b)  
 [Email](mailto:wasay8892@gmail.com)
 
 
